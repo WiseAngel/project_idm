@@ -1,0 +1,14 @@
+.idea/
+.vscode/
+.DS_Store
+.htaccess
+*.lock
+!yarn.lock
+*.log
+package-lock.json
+out/
+dist/
+node_modules/
+coverage/
+uncompressed/
+ignore/
